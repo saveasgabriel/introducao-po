@@ -89,4 +89,4 @@ Passos necessários para a resolução de um problema de programação linear (P
         lado direito (RHS).
 
 ## Exercício 1 de PPL
-[Ativodade 1](programacao-linear/atividade_1.ipynb)
+[Atividade 1](programacao-linear/atividade_1.ipynb)
