@@ -1,7 +1,5 @@
 # Fases
 
----
-
 ![Fases](img/fases.png)
 
 1. **Formulação do problema**
@@ -44,10 +42,9 @@
     2. Documentação do meio de obtenção do resultado e seus recurso (Técnico e fundamentalista) de forma a não suscitar dúvidas.
     3. Preparar equipe que irão interpretar e tomar decisões encima dos resultados.
 
+---
 
 # PL - Programação linear
-
----
 
 Um dos problemas mais comuns é o de otimização, quando se procura alocar recursos de forma mais eficiente para obter um resultado x maximizado ou minimizado.
 
